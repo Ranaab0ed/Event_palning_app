@@ -1,0 +1,2 @@
+D:/route course all/flutter route/flutter apps sessions/evently_app/android/app/.cxx/Debug/2r5j3n54/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/route course all/flutter route/flutter apps sessions/evently_app/android/app/.cxx/Debug/2r5j3n54/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,4 @@
-# news_app
+# evently
 
 A new Flutter project.
 
